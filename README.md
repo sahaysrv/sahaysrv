@@ -21,7 +21,7 @@ This space showcases the projects and experiments that reflect my growth and ded
 
 ## Courses
 
-! [Applied Data Science](https://www.coursera.org/account/accomplishments/specialization/certificate/22NL6P8NQFRW)
+![Applied Data Science](https://www.coursera.org/account/accomplishments/specialization/certificate/22NL6P8NQFRW)
 
 ### Credly Badges
 
