@@ -22,6 +22,7 @@ This space showcases the projects and experiments that reflect my growth and ded
 
 ![IBM Applied Data Science](https://img.shields.io/badge/IBM_Applied_Data_Science-blue)
 ![IBM Data Analysis with Python](https://img.shields.io/badge/IBM_Data_Analysis_with_Python-blue)
+![IBM Python for Data Science and AI](https://img.shields.io/badge/IBM_Python_for_Data_Science_and_AI-Specialization-blue)
 
 
 
