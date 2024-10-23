@@ -20,8 +20,8 @@ This space showcases the projects and experiments that reflect my growth and ded
 
 ## Courses
 
-![IBM Applied Data Science](https://img.shields.io/badge/IBM_Applied_Data_Science-blue)
-![IBM Data Analysis with Python](https://img.shields.io/badge/IBM_Data_Analysis_with_Python-blue)
+![IBM Applied Data Science](https://img.shields.io/badge/IBM_Applied_Data_Science-Specialization-blue)
+![IBM Data Analysis with Python](https://img.shields.io/badge/IBM_Data_Analysis_with_Python-Specialization-blue)
 ![IBM Python for Data Science and AI](https://img.shields.io/badge/IBM_Python_for_Data_Science_and_AI-Specialization-blue)
 ![UC Davis SQL for Data Science and AI](https://img.shields.io/badge/SQL_for_Data_Science_and_AI-Specialization-blue)
 ![Google Data Analytics Professional Certificate](https://img.shields.io/badge/Google_Data_Analytics_Professional_Certificate-Specialization-blue)
