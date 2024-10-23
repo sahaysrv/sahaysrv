@@ -19,9 +19,5 @@ This space showcases the projects and experiments that reflect my growth and ded
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
-## Courses
-
-![Applied Data Science](https://www.coursera.org/account/accomplishments/specialization/certificate/22NL6P8NQFRW)
-
-### Credly Badges
+![IBM AI Engineering](https://img.shields.io/badge/IBM_AI_Engineering-Specialization-blue)
 
