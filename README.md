@@ -18,9 +18,10 @@ This space showcases the projects and experiments that reflect my growth and ded
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+## Courses
 
 ![IBM Applied Data Science](https://img.shields.io/badge/IBM_Applied_Data_Science-blue)
-
 ![IBM Data Analysis with Python](https://img.shields.io/badge/IBM_Data_Analysis_with_Python-blue)
+
 
 
