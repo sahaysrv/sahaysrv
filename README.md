@@ -22,3 +22,5 @@ This space showcases the projects and experiments that reflect my growth and ded
 ## Courses
 
 https://img.shields.io/badge/Applied%20Data%20Science
+![Static Badge](https://img.shields.io/badge/Applied%20Data%20Science)
+
