@@ -19,5 +19,8 @@ This space showcases the projects and experiments that reflect my growth and ded
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
-![IBM AI Engineering](https://img.shields.io/badge/IBM_AI_Engineering-Specialization-blue)
+![IBM Applied Data Science](https://img.shields.io/badge/IBM_AI_Engineering-Specialization-blue)
+
+![IBM Data Analysis with Python](https://img.shields.io/badge/!%5BIBM%20AI%20Engineering%5D-Specialization-blue)
+
 
