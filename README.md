@@ -17,3 +17,8 @@ This space showcases the projects and experiments that reflect my growth and ded
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+
+## Courses
+
+https://img.shields.io/badge/Applied%20Data%20Science
