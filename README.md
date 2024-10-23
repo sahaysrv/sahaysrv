@@ -21,7 +21,7 @@ This space showcases the projects and experiments that reflect my growth and ded
 
 ## Courses
 
-![Applied Data Science](https://img.shields.io/badge/APplied Data Science-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Applied Data Science](https://img.shields.io/badge/Applied Data Science-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Credly Badges
 
