@@ -21,12 +21,7 @@ This space showcases the projects and experiments that reflect my growth and ded
 
 ## Courses
 
-<div>
-  <button>IBM AI Engineering Specialization</button>
-  <button>Data Science Specialization</button>
-  <button>Applied Data Science Specialization</button>
-  <button>Introduction to Data Science Specialization</button>
-</div>
+![Applied Data Science](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Credly Badges
 
